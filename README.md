@@ -1,3 +1,12 @@
+![DEPRECATED](https://img.shields.io/badge/status-DEPRECATED-red?style=for-the-badge)
+
+> [!CAUTION]
+> **DEPRECATED — repozytorium archiwalne / legacy repository**
+>
+> To repozytorium jest przestarzałe i dotyczy starszych wersji GameReader: **0.9.5 (0.95) / 1.0.0**. Kod i dokumentacja mogą nie odpowiadać aktualnej wersji aplikacji.
+>
+> This repository is deprecated and covers older GameReader versions: **0.9.5 (0.95) / 1.0.0**. The code and documentation may not reflect the current application.
+
 <div align="center">
 
 <img src="assets/images/logo.png" alt="GameReader Logo" width="220"/>
